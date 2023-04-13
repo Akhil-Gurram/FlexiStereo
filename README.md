@@ -2,13 +2,13 @@
 
 ## To capture photos using jetson nano camera
 ```
-nvgstrcapture-1.0 --automate --capture-auto
+nvgstcapture-1.0 --automate --capture-auto
 ```
 
 
 ## to view the list of options available from jetson nano camera, type:
 ```
-nvgstrcapture-1.0 --help
+nvgstcapture-1.0 --help
 ```
 
 Encoder null, cannot set bitrate!
